@@ -1,4 +1,4 @@
-# Blinkit — Manual QA Testing
+# README — Manual QA Testing
 
 Independent manual testing project on the Blinkit grocery delivery app, covering core user flows: search, cart, checkout, payment, and order tracking.
 
